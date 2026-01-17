@@ -1,5 +1,5 @@
 package subrepo
 
 func Hello() string {
-	return "Hello from submodule v2"
+	return "Hello from submodule v3"
 }
