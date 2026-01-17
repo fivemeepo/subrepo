@@ -1,3 +1,3 @@
-module github.com/fivemeepo/sub-repo
+module github.com/fivemeepo/subrepo
 
 go 1.23.12
